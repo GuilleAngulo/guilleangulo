@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋 👨🏻‍💻, I´m Guillermo
+
+``const guillermo = {
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Next],
+}``
+
+
+#### You can find me 🌎:
+- [Portfolio](https://guilleangulo.me/)
 
 <!--
 **GuilleAngulo/guilleangulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
