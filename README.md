@@ -1,9 +1,11 @@
 ### Hi 👋 👨🏻‍💻, I´m Guillermo
 
-``const guillermo = {
+```
+const guillermo = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Next],
-}``
+}
+```
 
 
 #### You can find me 🌎:
