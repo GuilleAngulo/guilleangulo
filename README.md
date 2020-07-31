@@ -1,6 +1,6 @@
 ### Hi 👋 👨🏻‍💻, I´m Guillermo
 
-```
+```javascript
 const guillermo = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Next],
