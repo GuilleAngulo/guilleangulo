@@ -1,8 +1,7 @@
 ### Hi, I´m Guillermo 👋
-
-Web developer focused on Javascript
-Born in Bilbao, Spain
-Living in São Paulo, Brazil
+- Web developer focused on Javascript
+- Born in Bilbao, Spain
+- Living in São Paulo, Brazil
 
 ```javascript
 const guillermo = {
