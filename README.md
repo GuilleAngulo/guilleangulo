@@ -1,5 +1,5 @@
 ### Hi, I´m Guillermo Angulo 👋
-I´m a web developer focused on Javascript Stack (Node.js and ReactJS). I was born in Bilbao (Spain) and I´m currently living in São Paulo (Brazil). 
+I´m a web developer focused on Javascript (Node.js and ReactJS). I was born in Bilbao (Spain) and I´m currently living in São Paulo (Brazil). 
 
 ```javascript
 const guillermo = {
