@@ -1,7 +1,5 @@
-### Hi, I´m Guillermo 👋
-- Web developer focused on Javascript
-- Born in Bilbao, Spain
-- Living in São Paulo, Brazil
+### Hi, I´m Guillermo Angulo 👋
+I´m a web developer focused on Javascript Stack (Node.js and ReactJS). I was born in Bilbao (Spain) and I´m currently living in São Paulo (Brazil). 
 
 ```javascript
 const guillermo = {
@@ -10,11 +8,12 @@ const guillermo = {
 }
 ```
 
-<!--### I’m currently learning 📘:
-- [Three JS](https://threejs.org/) -->
+### I’m currently focused on 👨‍💻
+
 
 ### Find me here 🌎:
-- ✨ [Site](https://guilleangulo.me/)
+✨ **[Site](https://guilleangulo.me/)**
+📖 **[Medium](https://medium.com/@anyermo)** (just starting 😅...)
 
 <!--
 **GuilleAngulo/guilleangulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
