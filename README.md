@@ -9,10 +9,7 @@ const guillermo = {
 ```
 
 ### I’m currently focused on 👨‍💻
-<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nodejs.png" >
-<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/reactjs.png" >
-<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nextjs.png" >
-<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/gatsbyjs.png" >
+<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nodejs.png" width="80"><img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/reactjs.png" width="80" ><img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nextjs.png" width="80" ><img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/gatsbyjs.png" width="80" >
 
 ### Find me here 🌎:
 ✨ **[guilleangulo.me](https://guilleangulo.me/)**<br/>
