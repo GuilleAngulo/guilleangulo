@@ -4,7 +4,7 @@ I´m a web developer focused on Javascript (Node.js and ReactJS). I was born in 
 ```javascript
 const guillermo = {
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Next],
+  tools: [Node, React, Redux, Next],
 }
 ```
 
