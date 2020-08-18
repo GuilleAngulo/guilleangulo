@@ -9,10 +9,13 @@ const guillermo = {
 ```
 
 ### I’m currently focused on 👨‍💻
-
+<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nodejs.png" >
+<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/reactjs.png" >
+<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nextjs.png" >
+<img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/gatsbyjs.png" >
 
 ### Find me here 🌎:
-✨ **[Site](https://guilleangulo.me/)**
+✨ **[guilleangulo.me](https://guilleangulo.me/)**<br/>
 📖 **[Medium](https://medium.com/@anyermo)** (just starting 😅...)
 
 <!--
