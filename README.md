@@ -1,13 +1,5 @@
 ### Hi, I´m Guillermo Angulo 👋
-I´m a web developer focused on Javascript (Node.js and ReactJS). I was born in Bilbao (Spain) and I´m currently living in São Paulo (Brazil). 
-
-```javascript
-const guillermo = {
-  code: [Javascript, HTML, CSS],
-  technologies: [Node, React],
-  tools: [Next, Gatsby, Redux]
-}
-```
+I´m a web developer focused on Javascript (Node.js and ReactJS). I'm from Bilbao (Spain), and I currently live in São Paulo (Brazil). 
 
 ### I’m currently focused on 👨‍💻
 Trying to improve my skills on both NodeJS and React. I have developed some **back-end** projects on Node (like a [movie-bot](https://github.com/GuilleAngulo/movie-bot)). And also some **front-end** projects with React using NextJS or GatbsyJS (like a [clothes shop](https://github.com/GuilleAngulo/react-graphql-shop)).<br/>
