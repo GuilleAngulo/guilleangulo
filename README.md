@@ -1,5 +1,5 @@
 ## Hi, I´m Guillermo 👋
-💻 Web developer focused on Javascript (Node.js and ReactJS). A Spaniard living in São Paulo. 
+💻 Web developer focused on Javascript (Node.js and ReactJS). A basque living in São Paulo. 
 
 ### I’m currently focused on 👨‍💻
 Trying to improve my skills on both NodeJS and React. I have developed some **back-end** projects on Node (like a [movie-bot](https://github.com/GuilleAngulo/movie-bot)), and  some **front-end** projects with React using NextJS and GatbsyJS (like a [clothes shop](https://github.com/GuilleAngulo/react-graphql-shop)).<br/>
