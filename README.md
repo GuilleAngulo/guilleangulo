@@ -7,7 +7,6 @@ Trying to improve my skills on both NodeJS and React. I have developed some **ba
 <img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nodejs.png" width="50">  <img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/reactjs.png" width="50" >  <img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/gatsbyjs.png" width="50" >  <img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nextjs.png" width="50" >
 
 ### Find me here 🌎:
-✨ **[guilleangulo.me](https://guilleangulo.me/)**<br/>
 📖 **[Medium](https://medium.com/@anyermo)** (just starting 😅...)
 
 <!--
